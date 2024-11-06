@@ -4,6 +4,8 @@
 
 Welcome, anime fans! **Cheery Cats' Anime** is a vibrant blogging site created for anime lovers. Dive into articles, explore anime character insights, write your own thoughts, and interact with others through comments. We hope you enjoy your time on our website as much as we enjoyed creating it!
 
+The website is developed using Node.js as the backend, SQL for the database, and Svelte as the framework for the frontend
+
 ---
 
 ## ⚙️ Setup Instructions
