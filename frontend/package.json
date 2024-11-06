@@ -1,0 +1,32 @@
+{
+  "name": "pgcit-final-project-frontend",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "prettier --plugin-search-dir . --check . && eslint .",
+    "format": "prettier --plugin-search-dir . --write ."
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-static": "^3.0.1",
+    "@sveltejs/kit": "^2.5.10",
+    "@sveltejs/vite-plugin-svelte": "^3.1.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-svelte": "^2.39.0",
+    "prettier": "^3.2.5",
+    "prettier-plugin-svelte": "^3.2.3",
+    "svelte": "^4.2.17",
+    "vite": "^5.0.3"
+  },
+  "type": "module",
+  "dependencies": {
+    "dayjs": "^1.11.11",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.5-lts.1",
+    "tinymce": "^7.4.1",
+    "uuid": "^10.0.0"
+  }
+}
